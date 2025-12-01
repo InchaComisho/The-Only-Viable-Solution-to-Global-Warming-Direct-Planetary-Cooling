@@ -279,3 +279,6 @@ Only the restoration of Earth’s natural circulatory systems.
 Hashtags
 
 #PlanetCooling #OceanBreathingSystem #UltrasonicMistCooling #DirectPlanetaryCooling #ClimateRestoration #MicrobialCollapse #EcosystemRecovery #GlobalCooling #NaturalLawEngineering #ClimateStabilization #MassExtinctionPrevention
+
+https://note.com/inchacomusho/n/n1e89016a32e0
+https://note.com/inchacomusho/n/n32f7295434aa

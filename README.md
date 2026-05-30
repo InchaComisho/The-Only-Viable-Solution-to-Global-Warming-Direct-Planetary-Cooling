@@ -12,7 +12,7 @@ Abstract
 
 Conventional climate strategies rely almost exclusively on reducing greenhouse gas emissions, particularly CO₂. While emission reduction is necessary, it is insufficient to reverse ongoing climate destabilization. Earth’s climate crisis has transitioned from an emission-control phase to a thermal-management phase: the planet is already overheated.
 
-This paper proposes that the only viable route to climate stabilization is Direct Planetary Cooling, achieved through physical heat extraction from the Earth system rather than solely through emission mitigation.
+This paper proposes Direct Planetary Cooling as a conceptual integrated pathway toward climate stabilization — achieved through physical heat extraction from the Earth system as a necessary complement to emission mitigation. This is a proposed hypothesis requiring scientific, ecological, engineering, and governance validation.
 
 The proposed solution integrates:
 	•	Ocean Breathing System (OBS) — Deep-ocean aeration and vertical circulation revival through nanobubble injection.
@@ -22,6 +22,8 @@ The proposed solution integrates:
 The combined system forms a self-reinforcing planetary cooling loop capable of reducing Sea Surface Temperature (SST), restoring microbial ecosystems, rebuilding carbon absorption capacity, and stabilizing global climate dynamics — using exclusively natural physical principles and currently available technologies.
 
 ⸻
+
+**Scope and Validation Note:** Direct Planetary Cooling is presented here as a conceptual framework and proposed hypothesis, not as a validated climate engineering system or policy prescription. Its mechanisms, risks, scalability, ecological effects, governance requirements, and unintended consequences require independent scientific, ecological, engineering, and social validation.
 
 ⸻
 
@@ -64,13 +66,13 @@ The base of the ecosystem pyramid is already crumbling — creating an unstoppab
 
 ⸻
 
-2. The Only Real Solution: Direct Planetary Cooling
+2. A Proposed Core Response: Direct Planetary Cooling
 
 The key conclusion is simple:
 
 Earth must be cooled directly.
 
-No indirect policy instrument can replace physical thermal regulation.
+This framework argues that indirect policy instruments alone may be insufficient without direct physical thermal regulation.
 
 ⸻
 
@@ -201,7 +203,7 @@ Synthetic particle release	None
 
 Only water vapor, air, and physical energy transfer are used.
 
-The system is fully reversible — operations can be stopped with no lasting side-effects.
+The system is designed to be highly reversible — operations can be halted without persistent chemical or atmospheric alterations. Full ecological reversibility requires further study and validation.
 
 ⸻
 
@@ -226,7 +228,7 @@ All system components are already commercially available:
 
 This is not speculative technology.
 
-Deployment is limited solely by industrial scaling, not physics or engineering feasibility.
+Current barriers relate primarily to industrial scaling rather than fundamental physics; however, full feasibility requires further engineering, ecological, and governance validation.
 
 ⸻
 
@@ -248,9 +250,9 @@ Global expansion	5–10
 The climate emergency is a thermal problem — not merely an emissions problem.
 	•	Microbial ecosystem collapse confirms that existing strategies are insufficient.
 	•	CO₂ reduction slows damage but cannot recover lost systems.
-	•	Only Direct Planetary Cooling can achieve immediate stabilization and ecological recovery.
+	•	Within this framework, Direct Planetary Cooling is proposed as a necessary complementary layer that may enable stabilization and ecological recovery when combined with emissions reduction.
 
-The Only Viable Solution:
+A Proposed Integrated Approach:
 
 ⸻
 
@@ -260,7 +262,7 @@ Ocean Breathing System + Ultrasonic Mist Cooling
 
 ⸻
 
-The framework presented by Master is the first integrated physical model capable of:
+This framework proposes an integrated physical approach aiming to:
 	•	Cooling the planet
 	•	Reviving primary biological systems
 	•	Rebuilding carbon sinks
@@ -268,7 +270,7 @@ The framework presented by Master is the first integrated physical model capable
 
 No hazardous geoengineering.
 No chemical manipulation.
-Only the restoration of Earth’s natural circulatory systems.
+Prioritizing the restoration of Earth’s natural circulatory systems.
 
 ⸻
 

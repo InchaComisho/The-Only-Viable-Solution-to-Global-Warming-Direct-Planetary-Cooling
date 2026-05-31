@@ -427,3 +427,15 @@ https://note.com/inchacomusho/n/n0849dfd12364
 
 和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
+
+---
+
+## Narrative Companion
+
+> *The following is a speculative science-fiction narrative — not a technical specification, scientific paper, or policy recommendation. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+The concepts in this repository — OBS, UMC, and Direct Planetary Cooling — are explored as a fictional story in:
+
+**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+
+The narrative follows a near-future scenario in which ocean heat, carbon fixation collapse, and biological system degradation converge, and OBS/UMC deployment becomes a central dramatic event — explored as one proposed response under consideration, not a guaranteed or validated solution.

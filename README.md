@@ -439,3 +439,22 @@ The concepts in this repository — OBS, UMC, and Direct Planetary Cooling — a
 **[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
 
 The narrative follows a near-future scenario in which ocean heat, carbon fixation collapse, and biological system degradation converge, and OBS/UMC deployment becomes a central dramatic event — explored as one proposed response under consideration, not a guaranteed or validated solution.
+
+---
+
+## Related Repositories
+
+- [Deep-Sea-Aeration](https://github.com/InchaComisho/Deep-Sea-Aeration) — Defines deep-sea aeration as an ocean metabolism restart technology.
+- [Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation](https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation) — Clarifies risk misunderstandings around deep-sea aeration.
+- [Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding](https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding) — OBS × UMC ocean temperature reduction framework.
+- [Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding) — Modular DPC architecture combining OBS and UMC.
+- [Technical-Specification-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-) — Technical specification for the Ocean Tuning Unit.
+- [Physical-Model-of-Ocean-Tuning-Unit-OTU-](https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-) — Physical model of spiral-driven deep-sea aeration and vertical circulation.
+- [Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) — DPC framework based on Ocean Tuning Units.
+- [Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation](https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation) — AI-controlled urban mist cooling concept.
+- [Urban-Water-Circulation-System-UEPWI](https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI) — Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
+- [Global-Direct-Planetary-Cooling-System](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System) — Integrated model connecting ocean cooling, urban microclimate control, and desert regeneration.
+- [Global-Direct-Planetary-Cooling-Architecture](https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture) — Deployment-oriented architecture for scaling DPC to regional and global implementation.
+- [Global-Planetary-Cooling-Ecosystem-Regeneration-System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) — System-level model linking ocean, urban, and desert interventions into one regenerative framework.

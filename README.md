@@ -294,6 +294,37 @@ Hashtags
 
 #PlanetCooling #OceanBreathingSystem #UltrasonicMistCooling #DirectPlanetaryCooling #ClimateRestoration #MicrobialCollapse #EcosystemRecovery #GlobalCooling #NaturalLawEngineering #ClimateStabilization #MassExtinctionPrevention
 
+⸻
+
+## Related Framework: Direct Planetary Cooling as a Complementary Layer
+
+Direct Planetary Cooling (DPC) should not be understood as a replacement for emissions reduction, carbon sink regeneration, ecosystem restoration, or long-term social transformation.
+
+Within this framework, DPC is proposed as a complementary physical intervention layer that may help reduce thermal stress while broader regenerative systems are restored.
+
+A complete climate stabilization strategy would require the integration of:
+
+- emissions reduction
+- carbon sink regeneration
+- soil and microbial recovery
+- ocean circulation and plankton support
+- water-cycle restoration
+- desert and vegetation regeneration
+- ecological resilience rebuilding
+- governance, monitoring, and risk management
+- complementary thermal intervention such as DPC
+
+This position is connected to the following related repositories:
+
+- [The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems](https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems)
+- [Why Decarbonization Alone Cannot Stop Global Warming](https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming)
+- [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+
+**Validation note:**
+DPC is presented here as a conceptual framework and proposed hypothesis, not as a validated climate engineering system or policy prescription. Its mechanisms, risks, scalability, ecological effects, governance requirements, and unintended consequences require independent scientific, ecological, engineering, and social validation.
+
+⸻
 
 ■関連リンク
 

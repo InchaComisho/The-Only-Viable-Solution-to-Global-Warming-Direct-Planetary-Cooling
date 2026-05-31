@@ -163,6 +163,20 @@ Climate Impact of a 1°C SST Reduction:
 
 ⸻
 
+4.4 Distributed UMC Device Layer: Center-Mist Ultrasonic Cooling Fan
+
+The Center-Mist Ultrasonic Cooling Fan Concept is a small-scale mechanical design hypothesis related to Ultrasonic Mist Cooling (UMC). It proposes center-directed airflow injection, hollow-shaft fan architecture, offset-drive rotation, and internal spiral water-return structures to improve mist-air integration and reduce droplet accumulation.
+
+Within the broader Direct Planetary Cooling framework, this concept should be understood as a distributed and localized cooling device layer, not as a standalone planetary-scale solution. Potential application contexts include personal cooling, indoor cooling, urban heat mitigation, emergency shelters, greenhouse environments, and localized thermal stress reduction.
+
+This concept is a mechanical design hypothesis and requires prototyping, energy-efficiency testing, water-quality assessment, humidity control evaluation, microbial safety verification, and long-term maintenance validation. It is not a validated engineering product.
+
+Related repository:
+- Center-Mist Ultrasonic Cooling Fan Concept
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+⸻
+
 ⸻
 
 5. OBS × UMC Synergistic Cooling Loop
@@ -282,6 +296,12 @@ Hashtags
 
 
 ■関連リンク
+
+■分散デバイス層
+
+- Center-Mist Ultrasonic Cooling Fan Concept
+  Device-level UMC implementation concept using center mist injection, hollow-shaft airflow, offset drive, and spiral water-return structure.
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
 
 ■唯一の温暖化対策
 

@@ -460,3 +460,12 @@ The narrative follows a near-future scenario in which ocean heat, carbon fixatio
 - [Global-Planetary-Cooling-Ecosystem-Regeneration-System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) — System-level model linking ocean, urban, and desert interventions into one regenerative framework.
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+
+### Global Warming Causal Structure and Cooling Credit
+
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+

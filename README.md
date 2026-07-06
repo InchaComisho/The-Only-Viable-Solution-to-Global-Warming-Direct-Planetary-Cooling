@@ -2,6 +2,8 @@
 
 Planet Cooling through Ocean Breathing System (OBS) and Ultrasonic Mist Cooling (UMC)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 Author: Master (inchacomisho / inchacomusho)
 Published: November 2025
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.

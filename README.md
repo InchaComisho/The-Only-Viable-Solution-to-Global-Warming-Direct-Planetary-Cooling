@@ -1,5 +1,7 @@
 # The Only Viable Solution to Global Warming: Direct Planetary Cooling
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 Planet Cooling through Ocean Breathing System (OBS) and Ultrasonic Mist Cooling (UMC)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)

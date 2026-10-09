@@ -1,6 +1,6 @@
 # 温暖化対策としての直接惑星冷却：Direct Planetary Cooling
 
-> English version: [README.md](./README.md)
+> English version: [README.md](./README_ja.md)
 
 > 本リポジトリは、Ocean Breathing System（OBS：海洋呼吸システム）と Ultrasonic Mist Cooling（UMC：超音波ミスト冷却）を中心とした、直接惑星冷却（Direct Planetary Cooling）の概念的フレームワークを日本語で整理したものです。これは実証済みの気候工学システムや政策処方ではなく、仮説的・概念的提案です。実装には、独立した科学的検証、生態系評価、工学的検証、国際的なガバナンス設計が必要です。
 
